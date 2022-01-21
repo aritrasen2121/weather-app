@@ -1,2 +1,2 @@
 # weather-app
-A web based weather forecasting app
+web based weather forecasting app
